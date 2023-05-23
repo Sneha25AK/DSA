@@ -1,3 +1,4 @@
 # DSA
-Data structures and algorithms practice problems
+Data structures and algorithms practice problems. 
+
 This repository contain the python notebooks for DSA problems
